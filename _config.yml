@@ -20,7 +20,7 @@ title                    : "Muhammad Shoaib"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Muhammad Shoaib"
-description              : "Shoaib's WebPaige"
+description              : "Shoaib's WebPage"
 url                      : "https://mshoaib54.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Muhammad Shoaib"
-  avatar           : "/assets/paige_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/Muhammad_Shoaib.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Open Science Expert & Enthusiast <br><br> 
                       **Team Lead, User Training** <br> 
                       Australian Earth System Simulator (ACCESS-NRI)"
