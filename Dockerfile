@@ -1,35 +1,23 @@
-# Base image: Ruby with necessary dependencies for Jekyll
-FROM ruby:3.2
+# Stage 1: Compile and Build angular codebase
 
-# Install dependencies
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    nodejs \
-    && rm -rf /var/lib/apt/lists/*
+FROM node:alpine as build
 
+RUN mkdir -p /app
+WORKDIR /app
+COPY package.json /app
 
-# Create a non-root user with UID 1000
-RUN groupadd -g 1000 vscode && \
-    useradd -m -u 1000 -g vscode vscode
+RUN npm install -f
 
-# Set the working directory
-WORKDIR /usr/src/app
+COPY . /app
+RUN npm run build
 
-# Set permissions for the working directory
-RUN chown -R vscode:vscode /usr/src/app
+# Stage 2: Serve app with nginx server
 
-# Switch to the non-root user
-USER vscode
+FROM nginx:alpine
 
-# Copy Gemfile into the container (necessary for `bundle install`)
-COPY Gemfile ./
+COPY --from=build /app/build /usr/share/nginx/html
 
+LABEL org.opencontainers.image.source https://github.com/JayantGoel001/JayantGoel001.github.io
+LABEL org.opencontainers.image.description Docker Image of my Personal Portfolio.
 
-
-# Install bundler and dependencies
-RUN gem install connection_pool:2.5.0
-RUN gem install bundler:2.3.26
-RUN bundle install
-
-# Command to serve the Jekyll site
-CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--config", "_config.yml,_config_docker.yml"]
+EXPOSE 80
