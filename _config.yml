@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paige E. Martin"
+  name             : "Muhammad Shoaib"
   avatar           : "/assets/paige_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Open Science Expert & Enthusiast <br><br> 
                       **Team Lead, User Training** <br> 
@@ -114,19 +114,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ms.paigem@gmail.com"
+      url: "mailto:mshoaib54@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://paigem.github.io"
+      url: "https://mshoaib54.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/paigem"
+      url: "https://github.com/mshoaib54"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/paige-martin-phd/"
+      url: "https://www.linkedin.com/in/mshoaib123/"
     - label: "X (formerly Twitter)"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/SciencePaige"
+      url: "https://x.com/mshoaib2022"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -145,7 +145,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/mshoaib54"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
