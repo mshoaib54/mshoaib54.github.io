@@ -10,7 +10,7 @@ header:
   overlay_image: assets/ocean_albatross_straightened.JPG
   actions:
     - label: "Download CV"
-      url: "assets/Paige_CV.pdf"
+      url: "assets/Muhammad_Shoaib_CV.pdf"
 feature_row:
   - image_path: /assets/research_global_map.png
     alt: "global map"
@@ -37,7 +37,8 @@ feature_row:
 
 # About
 
-Hi, I'm Paige! 👋  I am a scientist by training, with a background in climate data science 👩‍💻 and physical oceanography 🌊. I have years of scientific and technical expertise in large-scale data analysis, open-source software, and cloud computing. By using open-source technology and human connection, I work to support and enable open science. I envision a future with robust, transparent, and inclusive scientific research, and believe that open science frameworks are the best tools to achieve this vision.
+Assalam O Alaikum, I'm Muhammad Shoaib! 👋  I am a PhD student working at the intersection of compositional data analysis, information geometry, and graphical models. My research focuses on developing statistical and geometric methods for modeling structured multivariate data, with a particular focus on staged trees and divergence-based learning. I am especially interested in how compositional constraints and geometric structures can enhance inference, clustering, and interpretability in high-dimensional probabilistic models.
+
 
 Click on the links below to learn more about what I love to do!
 
