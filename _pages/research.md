@@ -20,8 +20,8 @@ During my PhD and Postdoc, I used a novel Fourier analysis technique to compute 
 
 ## Publications
 
-G Pistone, M Shoaib. (2023), [Kaniadakis’s Information Geometry of Compositional Data]([https://www.mdpi.com/1099-4300/25/7/1107](https://doi.org/10.3390/e25071107),_Entropy_.
+G Pistone, M Shoaib. (2023), [Kaniadakis’s Information Geometry of Compositional Data](https://doi.org/10.3390/e25071107),_Entropy_.
 
-G Pistone, M Shoaib. (2024) [A Unified Approach to Aitchison’s, Dually Affine, and Transport Geometries of the Probability Simplex]([https://www.mdpi.com/2075-1680/13/12/823](https://doi.org/10.3390/axioms13120823)), _Axioms_.
+G Pistone, M Shoaib. (2024) [A Unified Approach to Aitchison’s, Dually Affine, and Transport Geometries of the Probability Simplex](https://doi.org/10.3390/axioms13120823), _Axioms_.
 
  
