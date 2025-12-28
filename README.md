@@ -1,4 +1,4 @@
-# Muhammad Shoaib's webPaige!
+# Muhammad Shoaib's webPage!
 
 Welcome to my webpa(i)ge (pun intended)! To view the site, you can go to [mshoaib54.github.io](mshoaib54.github.io).
 
