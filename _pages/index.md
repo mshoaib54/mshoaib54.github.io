@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: assets/image.png
+  overlay_image: assets/ocean_albatross_straightened.JPG
   actions:
     - label: "Download CV"
       url: "assets/Muhammad_Shoaib_CV.pdf"
