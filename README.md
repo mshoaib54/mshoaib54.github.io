@@ -1,6 +1,6 @@
 # Muhammad Shoaib's webPage!
 
-Welcome to my webPage! To view the site, you can go to [mshoaib54.github.io](mshoaib54.github.io).
+Welcome to my WebPage! To view the site, you can go to [mshoaib54.github.io](mshoaib54.github.io).
 
 Thanks for visiting!
 
