@@ -48,7 +48,7 @@ In summary, the work provides a coherent geometric foundation for advanced stati
 linking compositional data analysis, information geometry, and optimal transport through the single 
 concept of the statistical bundle.
 
-##
+
 
 
 ## Publications
