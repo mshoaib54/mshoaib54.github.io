@@ -106,10 +106,10 @@ analytics:
 author:
   name             : "Muhammad Shoaib"
   avatar           : "/assets/Muhammad_Shoaib_.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Open Science Expert & Enthusiast <br><br> 
-                      **Team Lead, User Training** <br> 
-                      Australian Earth System Simulator (ACCESS-NRI)"
-  location         : "Canberra, Australia"
+  bio              : "PhD Researcher & Data Science Enthusiast <br><br> 
+                      **CLOE MSCA COFUND** <br> 
+                      Early Stage Researcher"
+  location         : "Genova, Italy"
   email            :
   links:
     - label: "Email"
@@ -139,7 +139,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/SciencePaige
+      url: https://x.com/mshoaib2022
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
