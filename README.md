@@ -1,4 +1,4 @@
-# Muhammad Shoaib's webPage!
+# Muhammad Shoaib's WebPage!
 
 Welcome to my WebPage! To view the site, you can go to [mshoaib54.github.io](mshoaib54.github.io).
 
