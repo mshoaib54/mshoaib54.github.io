@@ -37,7 +37,7 @@ feature_row:
 
 # About
 
-Assalam O Alaikum, I'm Muhammad Shoaib! 👋  I am a PhD student working at the intersection of compositional data analysis, information geometry, and graphical models. My research focuses on developing statistical and geometric methods for modeling structured multivariate data, with a particular focus on staged trees and divergence-based learning. I am especially interested in how compositional constraints and geometric structures can enhance inference, clustering, and interpretability in high-dimensional probabilistic models.
+Hello, I’m Muhammad Shoaib! 👋 I am a PhD scholar and a researcher . My areas of research are intersection of compositional data analysis, information geometry, and graphical models. My prime  focuses on developing statistical and geometric methods for modeling structured multivariate data, with a particular focus on staged trees and divergence-based learning. I am keenly interested in how compositional constraints and geometric structures can enhance inference, clustering, and interpretability in high-dimensional probabilistic models. These things are the urgency of post modern society where scio- economic and political dynamics are changing rapidly. My research will help out to sort climatous problems as well.
 
 
 Click on the links below to learn more about what I love to do!
