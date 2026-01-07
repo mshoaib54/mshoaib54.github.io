@@ -33,9 +33,12 @@ toc_sticky: true
 #### Introduction to R
 [Introduction to R](https://s3.amazonaws.com/verify.edx.org/downloads/8a3d3065617e4da4a8624947eb035bc7/Certificate.pdf)
 
+#### Introduction to Bayesian Data Analysis
+[Introduction to Bayesian Data Analysis](https://drive.google.com/file/d/1M-i0H-VECUYTclrMNRhPaob8giNwOI6r/view?usp=sharing)
+
 # Summer Schools
 #### Bayesian Autumn Achool @ CIRM Marseille, France
-[Bayesian Autumn Achool @ CIRM Marseille, France](https://drive.google.com/file/d/1k0IfQvvwQhY6tCVNlTfuJb9-Wzycs2wC/view?usp=drive_link)
+[Bayesian Autumn Achool @ CIRM Marseille, France](https://drive.google.com/file/d/1k0IfQvvwQhY6tCVNlTfuJb9-Wzycs2wC/view?usp=sharing)
 
 
 
