@@ -28,8 +28,8 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/coda.jpeg
     alt: "2023 Summer School on Compositional Data analysis at the CoDa workshop in Girona, Spain"
-    title: "MOOC Courses"
-    excerpt: "Massive Open Online Course"
+    title: "MOOC Courses and Summer Schools"
+    excerpt: "2023 Summer School on Compositional Data analysis at the CoDa workshop in Girona, Spain"
     url: "mooc-courses"
     btn_label: "Read More"
     btn_class: "btn--inverse"
