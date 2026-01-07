@@ -40,5 +40,12 @@ toc_sticky: true
 #### Bayesian Autumn Achool @ CIRM Marseille, France
 [Bayesian Autumn Achool @ CIRM Marseille, France](https://drive.google.com/file/d/1k0IfQvvwQhY6tCVNlTfuJb9-Wzycs2wC/view?usp=sharing)
 
+#### Topics in Modern Machine Learning (ModML) Genova, Italy
+[Topics in Modern Machine Learning (ModML) 2023](https://drive.google.com/file/d/1k0IfQvvwQhY6tCVNlTfuJb9-Wzycs2wC/view?usp=sharing)
+
+#### Data Science Summer School @ Hertie School Data Science Lab
+[Data Science Summer School @ Hertie School Data Science Lab](https://drive.google.com/file/d/1RQZS-372aupyNGfi4fh904J1STjpZAWz/view?usp=sharing)
+
+
 
 
