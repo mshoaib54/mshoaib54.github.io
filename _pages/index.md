@@ -26,7 +26,7 @@ feature_row:
     url: "open-science"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/coessing_2019.jpg
+  - image_path: /assets/coda.jpeg
     alt: "2023 Summer School on Compositional Data analysis at the CoDa workshop in Girona, Spain"
     title: "MOOC Courses"
     excerpt: "Massive Open Online Course"
