@@ -15,7 +15,7 @@ toc_sticky: true
 #### IBM Data Science Specialization
 [IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/WWZGWH28RUYY) 
 
-#### Google Advanced Data Analytics
+#### Google Advanced Data Analytics Specialization
 [Google Advanced Data Analytics](https://coursera.org/share/d1962e66c7c4a58f35829db47a249ba3)
 
 #### Scientfic & Technical Writing
