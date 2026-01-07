@@ -27,9 +27,9 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/coessing_2019.jpg
-    alt: "2019 group photo from Coastal Ocean Environment Summer School in Nigeria and Ghana"
+    alt: "2023 Summer School on Compositional Data analysis at the CoDa workshop in Girona, Spain"
     title: "MOOC Courses"
-    excerpt: "Inspiring ocean science education, training, and global research collaborations"
+    excerpt: "Massive Open Online Course"
     url: "mooc-courses"
     btn_label: "Read More"
     btn_class: "btn--inverse"
