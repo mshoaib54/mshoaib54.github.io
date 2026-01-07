@@ -28,9 +28,9 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/coessing_2019.jpg
     alt: "2019 group photo from Coastal Ocean Environment Summer School in Nigeria and Ghana"
-    title: "Capacity Sharing"
+    title: "MOOC Courses"
     excerpt: "Inspiring ocean science education, training, and global research collaborations"
-    url: "capacity-sharing"
+    url: "mooc-courses"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
