@@ -12,13 +12,15 @@ toc_sticky: true
 
 
 
-## IBM Data Science
+## Certifications
 
 [IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/WWZGWH28RUYY) 
+[Google Advanced Data Analytics](https://coursera.org/share/d1962e66c7c4a58f35829db47a249ba3)
+[Scientfic & Technical Writing](https://credsverse.com/credentials/387fffd8-5328-4c75-9a74-7b6d0f1c782d)
 
 
 
-## Google Advanced Data Analytics
+## Summer Schools
 
 [Google Advanced Data Analytics](https://coursera.org/share/d1962e66c7c4a58f35829db47a249ba3)
 
