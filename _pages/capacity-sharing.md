@@ -55,8 +55,8 @@ toc_sticky: true
 #### Compositional Data Analysis
 [Compositional Data Analysis](https://drive.google.com/file/d/1ggIIFtM3J_DQ7GLvwJvp55YQGNvn_MZ2/view?usp=sharing)
 
-#### Applied Bayesian School and Bayesian Causal Inference
-[Applied Bayesian School and Bayesian Causal Inference](https://drive.google.com/file/d/1sbSYRlRsb0vv4ebzu8Yc02ZG04a9mB9q/view?usp=sharing)
+#### Applied Bayesian Statistics School and Bayesian Causal Inference
+[Applied Bayesian School Statistics and Bayesian Causal Inference](https://drive.google.com/file/d/1sbSYRlRsb0vv4ebzu8Yc02ZG04a9mB9q/view?usp=sharing)
 
 
 
