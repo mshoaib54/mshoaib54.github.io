@@ -39,6 +39,12 @@ toc_sticky: true
 #### Early Warning Systems for Hydrological Risks
 [Early Warning Systems for Hydrological Risks](https://drive.google.com/file/d/1NI2quJv4q3qE8o3zg5VKNT6MjJcuh9AK/view?usp=sharing)
 
+#### Probability and Uncertainty Course
+[Probability and Uncertainty Course](https://drive.google.com/file/d/15ILesPfaioywBAlp15wwV9qQUnSgwVCn/view?usp=sharing)
+
+#### Causality Course
+[Causality Course](https://drive.google.com/file/d/1F8_DYkgaxBhfcl2wqK2NAZtS9oqRktnE/view?usp=sharing)
+
 # Summer Schools
 #### Bayesian Autumn Achool @ CIRM Marseille, France
 [Bayesian Autumn Achool @ CIRM Marseille, France](https://drive.google.com/file/d/1k0IfQvvwQhY6tCVNlTfuJb9-Wzycs2wC/view?usp=sharing)
