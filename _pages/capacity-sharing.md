@@ -36,18 +36,27 @@ toc_sticky: true
 #### Introduction to Bayesian Data Analysis
 [Introduction to Bayesian Data Analysis](https://drive.google.com/file/d/1M-i0H-VECUYTclrMNRhPaob8giNwOI6r/view?usp=sharing)
 
+#### Early Warning Systems for Hydrological Risks
+[Early Warning Systems for Hydrological Risks](https://drive.google.com/file/d/1NI2quJv4q3qE8o3zg5VKNT6MjJcuh9AK/view?usp=sharing)
+
 # Summer Schools
 #### Bayesian Autumn Achool @ CIRM Marseille, France
 [Bayesian Autumn Achool @ CIRM Marseille, France](https://drive.google.com/file/d/1k0IfQvvwQhY6tCVNlTfuJb9-Wzycs2wC/view?usp=sharing)
 
 #### Topics in Modern Machine Learning (ModML) Genova, Italy
-[Topics in Modern Machine Learning (ModML) 2023](https://drive.google.com/file/d/1k0IfQvvwQhY6tCVNlTfuJb9-Wzycs2wC/view?usp=sharing)
+[Topics in Modern Machine Learning (ModML) 2023](https://drive.google.com/file/d/1h96A9IaoKCXpqltwMjzeKETv6iF6uwlT/view?usp=sharing)
 
 #### Data Science Summer School @ Hertie School Data Science Lab
 [Data Science Summer School @ Hertie School Data Science Lab](https://drive.google.com/file/d/1RQZS-372aupyNGfi4fh904J1STjpZAWz/view?usp=sharing)
 
 #### Deep Learning and Computer Vision School (DLCV) 2023
 [Deep Learning and Computer Vision School (DLCV) 2023](https://drive.google.com/file/d/1X3sTwNUkrjwKv4163T7kzfm4dFHb01Y9/view?usp=sharing)
+
+#### Compositional Data Analysis
+[Compositional Data Analysis](https://drive.google.com/file/d/1ggIIFtM3J_DQ7GLvwJvp55YQGNvn_MZ2/view?usp=sharing)
+
+#### Applied Bayesian School and Bayesian Causal Inference
+[Applied Bayesian School and Bayesian Causal Inference](https://drive.google.com/file/d/1sbSYRlRsb0vv4ebzu8Yc02ZG04a9mB9q/view?usp=sharing)
 
 
 
