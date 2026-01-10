@@ -41,7 +41,7 @@ Hello, I’m Muhammad Shoaib! 👋 I am a CLOE Marie Sklodowska-Curie COFUND Fel
 
 I focus on developing divergence-based methods on the probability simplex to analyze and compare probability distributions, with applications to staged event tree models. These models offer a flexible representation of context-specific dependencies, and my work shows how they can be embedded in the simplex to enable geometric and information-theoretic analysis.
 
-In collaboration with Gherardo Varando, I developed a hierarchical clustering method for estimating staged trees via simplex geometry. I am also part of a collaborative project on robust global crop yield estimation, in partnership with the ISP group (UVEG) and OrionLab (NTUA–NOA, Athens).
+In collaboration with Dr Gherardo Varando, Dr Manuele Leonelli, and Prof. Eva Riccomagno.  We are hierarchical clustering method for estimating staged trees via simplex geometry. I am also part of a collaborative project on robust global crop yield estimation, in partnership with the ISP group (UVEG) and OrionLab (NTUA–NOA, Athens).
 
 My broader goal is to build interpretable, principled tools for structured data using statistical and geometric insights.
 
