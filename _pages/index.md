@@ -37,8 +37,13 @@ feature_row:
 
 # About
 
-Hello, I’m Muhammad Shoaib! 👋 I am a PhD scholar and a researcher . My areas of research are intersection of compositional data analysis, information geometry, and graphical models. My prime  focuses on developing statistical and geometric methods for modeling structured multivariate data, with a particular focus on staged trees and divergence-based learning. I am keenly interested in how compositional constraints and geometric structures can enhance inference, clustering, and interpretability in high-dimensional probabilistic models. These things are the urgency of post modern society where scio- economic and political dynamics are changing rapidly. My research will help out to sort climatous problems as well.
+Hello, I’m Muhammad Shoaib! 👋 I am a CLOE Marie Sklodowska-Curie COFUND Fellow and PhD researcher at the University of Genova, Italy, supervised by Prof. Eva Riccomagno. My research lies at the intersection of compositional data analysis, Bayesian statistics, causal inference, and information geometry.
 
+I focus on developing divergence-based methods on the probability simplex to analyze and compare probability distributions, with applications to staged event tree models. These models offer a flexible representation of context-specific dependencies, and my work shows how they can be embedded in the simplex to enable geometric and information-theoretic analysis.
+
+In collaboration with Gherardo Varando, I developed a hierarchical clustering method for estimating staged trees via simplex geometry. I am also part of a collaborative project on robust global crop yield estimation, in partnership with the ISP group (UVEG) and OrionLab (NTUA–NOA, Athens).
+
+My broader goal is to build interpretable, principled tools for structured data using statistical and geometric insights.
 
 Click on the links below to learn more about what I love to do!
 
