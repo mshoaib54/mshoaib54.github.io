@@ -57,8 +57,23 @@ G Pistone, M Shoaib. (2023), [Kaniadakis’s Information Geometry of Composition
 
 G Pistone, M Shoaib. (2024) [A Unified Approach to Aitchison’s, Dually Affine, and Transport Geometries of the Probability Simplex](https://doi.org/10.3390/axioms13120823), _Axioms_.
 
-ASME 2020: Zubair, Muhammad, Sajid Ghuffar, Muhammad Shoaib, Ahmed Bilal Awan, and Abdul Rauf Bhatti.
+Zubair, Muhammad, Sajid Ghuffar, Muhammad Shoaib, Ahmed Bilal Awan, and Abdul Rauf Bhatti.
 [Assessment of Photovoltaic Capabilities in Urban Environments: A Case Study of Islamabad, Pakistan.](https://asmedigitalcollection.asme.org/solarenergyengineering/article-abstract/142/6/061006/1082699/Assessment-of-Photovoltaic-Capabilities-in-Urban?redirectedFrom=fulltext) Journal of
 Solar Energy Engineering 142, no. 6 (2020)
+
+## Conferences 
+Muhammad Shoaib, Muhammad Qasim, Zaka Ur Rehman [Comparison of Maximum Likelihood
+Classification Before and After Applying Weierstrass Transform](https://arxiv.org/abs/2601.04808) in Fourth International conference on Aerospace
+Science and Engineering, page 289, 2015
+
+Aftab, S., Abbas,W., Bilal, M. M., Hussain, T., Shoaib, M., & Mehmood, S. H. (2013,
+September). [Data mining in insurance claims (DMICS) twoway mining for extreme values.](https://ieeexplore.ieee.org/document/6694026) In Eighth International
+Conference on Digital Information Management (ICDIM 2013) (pp. 1-6). IEEE
+
+## Poster Presentations
+
+
+
+
 
  
