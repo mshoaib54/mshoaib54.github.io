@@ -10,45 +10,6 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-## Kaniadakis’s Information Geometry of Compositional Data
-
-In this research, we developed a geometric framework for compositional data analysis using 
-Kaniadakis’ deformed logarithm, originally from statistical physics. It constructs an affine information 
-geometry on the probability simplex, where standard expectations are replaced with escort 
-expectations weighted by a function. This leads to a dually flat statistical bundle with exponential and 
-mixture parallel transports.
-The central innovation is the Kaniadakis divergence, a generalized dissimilarity measure between 
-distributions. Within this geometry, the authors define key tools: the exponential displacement and 
-mixture displacement , which provide affine coordinate charts, and a consistent method to compute a 
-barycenter (mean) and deviations for a dataset.
-The theory is applied to a financial dataset of systemic risk (SRISK) contributions across ten European 
-countries (2008–2021). Calculating the Kaniadakis divergence and displacements reveals that Spain 
-and Greece exhibit the most significant fluctuations, aligning with known financial instability during 
-the Eurozone crisis. This demonstrates the framework’s utility for detecting relative risk patterns in 
-compositional economic data, offering an algebraic and geometrically principled alternative to 
-traditional Aitchison geometry
-
-## A Unified Approach to Aitchison’s, Dually Affine, and Transport Geometries of the Probability Simplex
-
-In this research, we present a unified geometric framework for the probability simplex, where standard 
-Euclidean geometry fails. It integrates three key approaches: Aitchison's geometry (using the centered 
-log-ratio transform), Amari's information geometry (with dual mixture/exponential connections), and 
-transport geometry (for optimal transport plans).
-The core innovation is the affine statistical bundle. Here, each point (a probability distribution, q) has 
-a tangent space defined as the set of centered random variables (Fisher scores). The research shows 
-that Aitchison's and Amari's geometries are specific coordinate charts on this bundle, connected by 
-dual rules for parallel transport. This allows for a unified calculus: defining intrinsic velocity as the 
-Fisher score, the natural gradient for optimization, and distinct accelerations for mixture and 
-exponential paths.
-Within this framework, we derives gradient flows for the Kullback-Leibler divergence and optimal 
-transport costs. Furthermore, we developed a Lagrangian/Hamiltonian mechanics on the simplex, 
-where the action integral of Fisher information yields Euler-Lagrange equations that characterize 
-geodesics and enable the analysis of dynamic statistical models.
-In summary, the work provides a coherent geometric foundation for advanced statistical computation, 
-linking compositional data analysis, information geometry, and optimal transport through the single 
-concept of the statistical bundle.
-
-
 
 
 ## Publications
