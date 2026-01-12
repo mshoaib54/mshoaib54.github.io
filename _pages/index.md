@@ -15,15 +15,15 @@ feature_row:
   - image_path: /assets/research_global_map.png
     alt: "global map"
     title: "Scientific Research"
-    excerpt: "Understanding the ocean’s role in climate variability and air-sea interaction"
+    excerpt: "Research Publications and Projects"
     url: "research"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/cormorant.JPG
     alt: "Cormorant posing on a sea-side rock"
     title: "Open Science"
-    excerpt: "Promoting open-source software, open data, and open practices in the science community"
-    url: "open-science"
+    excerpt: ""
+    url: "Education"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/coda.jpeg
