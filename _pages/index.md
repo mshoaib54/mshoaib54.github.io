@@ -45,6 +45,9 @@ In collaboration with Dr. Gherardo Varando, Dr. Manuele Leonelli, and Prof. Eva 
 
 My broader goal is to build interpretable, principled tools for structured data using statistical and geometric insights.
 
+
+# Experience
+
 Click on the links below to learn more about what I love to do!
 
 
