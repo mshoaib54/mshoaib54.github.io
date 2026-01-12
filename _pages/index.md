@@ -21,7 +21,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/cormorant.JPG
     alt: "Cormorant posing on a sea-side rock"
-    title: "Open Science"
+    title: "Education"
     excerpt: ""
     url: "Education"
     btn_label: "Read More"
