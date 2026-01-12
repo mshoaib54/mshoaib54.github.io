@@ -33,8 +33,12 @@ toc_sticky: true
   <div class="edu-timeline">
 <section class="edu-item">
   <div class="edu-header">
-    <p class="edu-title">PhD in Mathematics (Ongoing)</p>
-    <span class="edu-inst">— [University of Genova CLOE Project](https://cloe.dp.unige.it/it), Genoa, Italy</span>
+    <p class="edu-title">
+      <a href="https://cloe.dp.unige.it/it" target="_blank">
+        PhD in Mathematics (Ongoing)
+      </a>
+    </p>
+    <span class="edu-inst">— University of Genova, Genoa, Italy</span>
     <span class="edu-meta">• December 2023 – Present</span>
   </div>
   <ul class="edu-bullets">
@@ -45,8 +49,12 @@ toc_sticky: true
 
 <section class="edu-item">
   <div class="edu-header">
-    <p class="edu-title">Visiting Researcher</p>
-    <span class="edu-inst">— [University of Valencia ISP Lab](https://isp.uv.es/), Valencia, Spain</span>
+    <p class="edu-title">
+      <a href="https://isp.uv.es/" target="_blank">
+        Visiting Researcher
+      </a>
+    </p>
+    <span class="edu-inst">— University of Valencia, Valencia, Spain</span>
     <span class="edu-meta">• February 2025 – June 2025</span>
   </div>
   <ul class="edu-bullets">
@@ -62,8 +70,12 @@ toc_sticky: true
 
 <section class="edu-item">
   <div class="edu-header">
-    <p class="edu-title">Master of Science in Remote Sensing and GISc</p>
-    <span class="edu-inst">— [Institute of Space Technology](https://www.ist.edu.pk/), Islamabad, Pakistan</span>
+    <p class="edu-title">
+      <a href="https://www.ist.edu.pk/" target="_blank">
+        Master of Science in Remote Sensing and GISc
+      </a>
+    </p>
+    <span class="edu-inst">— Institute of Space Technology, Islamabad, Pakistan</span>
     <span class="edu-meta">• September 2014 – August 2018</span>
   </div>
   <ul class="edu-bullets">
@@ -73,8 +85,12 @@ toc_sticky: true
 
 <section class="edu-item">
   <div class="edu-header">
-    <p class="edu-title">Master of Science in Statistics</p>
-    <span class="edu-inst">— [Quaid-i-Azam University](https://qau.edu.pk/), Pakistan</span>
+    <p class="edu-title">
+      <a href="https://qau.edu.pk/" target="_blank">
+        Master of Science in Statistics
+      </a>
+    </p>
+    <span class="edu-inst">— Quaid-i-Azam University, Islamabad, Pakistan</span>
     <span class="edu-meta">• February 2010 – February 2012</span>
   </div>
   <ul class="edu-bullets">
@@ -84,8 +100,12 @@ toc_sticky: true
 
 <section class="edu-item">
   <div class="edu-header">
-    <p class="edu-title">Bachelor of Science in Mathematics and Statistics</p>
-    <span class="edu-inst">— [Hazara University](https://lms.hu.edu.pk/), Mansehra, Pakistan</span>
+    <p class="edu-title">
+      <a href="https://lms.hu.edu.pk/" target="_blank">
+        Bachelor of Science in Mathematics and Statistics
+      </a>
+    </p>
+    <span class="edu-inst">— Hazara University, Mansehra, Pakistan</span>
     <span class="edu-meta">• September 2006 – August 2008</span>
   </div>
 </section>
