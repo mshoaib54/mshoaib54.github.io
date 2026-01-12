@@ -57,4 +57,8 @@ G Pistone, M Shoaib. (2023), [Kaniadakis’s Information Geometry of Composition
 
 G Pistone, M Shoaib. (2024) [A Unified Approach to Aitchison’s, Dually Affine, and Transport Geometries of the Probability Simplex](https://doi.org/10.3390/axioms13120823), _Axioms_.
 
+ASME 2020: Zubair, Muhammad, Sajid Ghuffar, Muhammad Shoaib, Ahmed Bilal Awan, and Abdul Rauf Bhatti.
+[Assessment of Photovoltaic Capabilities in Urban Environments: A Case Study of Islamabad, Pakistan.](https://asmedigitalcollection.asme.org/solarenergyengineering/article-abstract/142/6/061006/1082699/Assessment-of-Photovoltaic-Capabilities-in-Urban?redirectedFrom=fulltext) Journal of
+Solar Energy Engineering 142, no. 6 (2020)
+
  
