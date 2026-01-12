@@ -12,19 +12,18 @@ toc_sticky: true
 
 # 🎓 Education
 
-PhD in Mathematics (Ongoing)
+#### PhD in Mathematics (Ongoing)
 
-University of Genova, Genoa, Italy
+[University of Genova CLOE](https://cloe.dp.unige.it/it), Genoa, Italy
 December 2023 – Present
 	•	Supervisor: Prof. Eva Riccomagno
 	•	Research Project:
 	•	Coherent inference for graphical models with applications to risk assessment of rare events
+_____________________________________________________________________________________________________
 
-⸻
+#### Visiting Researcher
 
-Visiting Researcher
-
-University of Valencia, Valencia, Spain
+[University of Valencia ISP Lab](https://isp.uv.es/), Valencia, Spain
 February 2025 – June 2025
 	•	Supervisor: Prof. Gherardo Varando
 	•	Research Projects:
@@ -33,25 +32,25 @@ February 2025 – June 2025
 
 ⸻
 
-Master of Science in Remote Sensing and GISc
+#### Master of Science in Remote Sensing and GISc
 
-Institute of Space Technology, Islamabad, Pakistan
+[Institute of Space Technology](https://www.ist.edu.pk/), Islamabad, Pakistan
 September 2014 – August 2018
 	•	Thesis:
 	•	Building extraction from high-resolution satellite imagery using deep learning
 
 ⸻
 
-Master of Science in Statistics
+#### Master of Science in Statistics
 
-Quaid-i-Azam University, Islamabad, Pakistan
+[Quaid-i-Azam University](https://qau.edu.pk/), Islamabad, Pakistan
 February 2010 – February 2012
 	•	Project:
 	•	Survey on quality of hospital information systems in Islamabad and Abbottabad
 
 ⸻
 
-Bachelor of Science in Mathematics and Statistics
+#### Bachelor of Science in Mathematics and Statistics
 
-Hazara University, Mansehra, Pakistan
+[Hazara University](https://lms.hu.edu.pk/), Mansehra, Pakistan
 September 2006 – August 2008
