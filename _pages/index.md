@@ -23,7 +23,7 @@ feature_row:
     alt: "Cormorant posing on a sea-side rock"
     title: "Education"
     excerpt: ""
-    url: "Education"
+    url: "education"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/coda.jpeg
