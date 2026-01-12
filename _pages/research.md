@@ -23,7 +23,7 @@ toc_sticky: true
   </div>
   <ul class="edu-bullets">
     <li>Preparation of a research paper currently in its final stages</li>
-    <li><strong>Collaborators:</strong> Eva Riccomagno (University of Genova) and Manuele Leonelli (IE University)</li>
+    <li><strong>Collaborators:</strong> Eva Riccomagno (University of Genova), Manuele Leonelli (IE University) and  Gherardo Varando</li>
   </ul>
 </section>
 
