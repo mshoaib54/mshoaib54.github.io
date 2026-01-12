@@ -47,6 +47,68 @@ My broader goal is to build interpretable, principled tools for structured data 
 
 
 # Experience
+<section class="edu-item">
+  <div class="edu-header">
+    <p class="edu-title"><strong>Subject Specialist Statistics</strong></p>
+    <span class="edu-inst">
+      — <a href="https://kpese.edu.pk/" target="_blank">KPESE</a>, Abbottabad, Pakistan
+    </span>
+    <span class="edu-meta">• May 2015 – January 2022</span>
+  </div>
+  <ul class="edu-bullets">
+    <li>Teaching statistics to intermediate-level students</li>
+  </ul>
+</section>
+
+<section class="edu-item">
+  <div class="edu-header">
+    <p class="edu-title"><strong>Data Science Enthusiast (Freelancer)</strong></p>
+    <span class="edu-inst">
+      — <a href="https://www.fiverr.com/" target="_blank">Fiverr</a>, Remote
+    </span>
+    <span class="edu-meta">• September 2014 – December 2022</span>
+  </div>
+  <ul class="edu-bullets">
+    <li>Worked on multiple projects related to data science, machine learning, remote sensing, GISc, and statistics</li>
+    <li><strong>Selected Projects:</strong>
+      <ul class="edu-bullets">
+        <li>Depressive feelings of heart and cancer patients</li>
+        <li>Predicting overall health score (QWBSCORE) using physical functioning, role-physical, and bodily pain variables from the National Health Measurement Study (NHMS)</li>
+        <li>Comparison of SVM and neural networks on Caravan data using IBM SPSS Modeler</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section class="edu-item">
+  <div class="edu-header">
+    <p class="edu-title"><strong>Business Intelligence Analyst</strong></p>
+    <span class="edu-inst">
+      — <a href="https://www.360technologies.net/" target="_blank">360 Technologies</a>, Islamabad, Pakistan
+    </span>
+    <span class="edu-meta">• December 2013 – March 2014</span>
+  </div>
+  <ul class="edu-bullets">
+    <li>Built churn prediction models for telecommunication companies (Zong and Telenor)</li>
+    <li>Applied machine learning algorithms for customer retention analysis</li>
+  </ul>
+</section>
+
+<section class="edu-item">
+  <div class="edu-header">
+    <p class="edu-title"><strong>Data Scientist</strong></p>
+    <span class="edu-inst">
+      — <a href="https://www.protegeglobal.com/" target="_blank">Protege Global</a>, Islamabad, Pakistan
+    </span>
+    <span class="edu-meta">• February 2013 – November 2013</span>
+  </div>
+  <ul class="edu-bullets">
+    <li>Worked on medical lien management projects for California, USA</li>
+    <li>Performed data analysis on medical insurance settlements</li>
+    <li>Developed exploratory and predictive models for insurance claims and settlements</li>
+    <li>Prepared regular analytical reports using graphical and statistical summaries</li>
+  </ul>
+</section>
 
 Click on the links below to learn more about what I love to do!
 
