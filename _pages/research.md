@@ -10,6 +10,39 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
+## Current Projects
+<section class="edu-item">
+  <div class="edu-header">
+    <p class="edu-title">
+      <strong>Estimating Staged Event Tree Models via Hierarchical Clustering on the Simplex</strong>
+    </p>
+    <span class="edu-inst">
+      — Research Paper (In Preparation)
+    </span>
+    <span class="edu-meta">• Ongoing</span>
+  </div>
+  <ul class="edu-bullets">
+    <li>Preparation of a research paper currently in its final stages</li>
+    <li><strong>Collaborators:</strong> Eva Riccomagno (University of Genova) and Manuele Leonelli (IE University)</li>
+  </ul>
+</section>
+
+<section class="edu-item">
+  <div class="edu-header">
+    <p class="edu-title">
+      <strong>Robust Estimation of Country-Level Crop Yield at a Global Scale</strong>
+    </p>
+    <span class="edu-inst">
+      — Collaborative Research Project
+    </span>
+    <span class="edu-meta">• Ongoing</span>
+  </div>
+  <ul class="edu-bullets">
+    <li>Ongoing research project on robust estimation methods for global crop yield</li>
+    <li>Originated from a week-long hackathon at the ISP Lab</li>
+    <li><strong>Collaborators:</strong> Researchers from the ISP Group (University of Valencia) and OrionLab (NTUA–NOA, Athens, Greece)</li>
+  </ul>
+</section>
 
 
 ## Publications
