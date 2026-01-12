@@ -38,7 +38,7 @@ Deep Learning](https://www.researchgate.net/publication/335224417_Building_Extra
 
 Muhammad Shoaib, Eva Riccomagno
 [Exploring and Applying Divergence Measures and Distances in the Analysis of Compositional Data and Their
-Real-World Applications]([https://probabilityrome2024.it/poster-session/](https://www.researchgate.net/publication/399670697_Optimizing_Clustering_of_Compositional_Data_A_Comparative_Study_of_Divergence_Measures)) in 4th Italian Meeting on Probability and Mathematical Statistics 2024:
+Real-World Applications]([https://probabilityrome2024.it/poster-session/](https://www.researchgate.net/publication/399670697_Optimizing_Clustering_of_Compositional_Data_A_Comparative_Study_of_Divergence_Measures) in 4th Italian Meeting on Probability and Mathematical Statistics 2024:
 
 
 
