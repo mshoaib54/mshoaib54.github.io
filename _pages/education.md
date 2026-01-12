@@ -30,7 +30,7 @@ February 2025 – June 2025
 	•	Estimating staged event tree models via hierarchical clustering on the simplex
 	•	Robust estimation of country-level crop yield at a global scale
 
-⸻
+_____________________________________________________________________________________________________
 
 #### Master of Science in Remote Sensing and GISc
 
@@ -39,7 +39,7 @@ September 2014 – August 2018
 	•	Thesis:
 	•	Building extraction from high-resolution satellite imagery using deep learning
 
-⸻
+_____________________________________________________________________________________________________
 
 #### Master of Science in Statistics
 
@@ -48,9 +48,10 @@ February 2010 – February 2012
 	•	Project:
 	•	Survey on quality of hospital information systems in Islamabad and Abbottabad
 
-⸻
+_____________________________________________________________________________________________________
 
 #### Bachelor of Science in Mathematics and Statistics
 
 [Hazara University](https://lms.hu.edu.pk/), Mansehra, Pakistan
 September 2006 – August 2008
+_____________________________________________________________________________________________________
